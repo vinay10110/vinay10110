@@ -1,10 +1,54 @@
-<h1 align="center">Hi 👋, I'm Sai Vinay Chakravarthi</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+# 👋 Hi, I'm Vinay  
 
-<h3 align="left">Connect with me:</h3>
+💻 Full-Stack Web Developer | 🤖 Machine Learning Enthusiast | 🧠 Generative AI Explorer  
+
+---
+
+## 🚀 About Me  
+- 🌱 Building projects with **MERN stack** and scalable backend systems  
+- 🤖 Experimenting with **Machine Learning & Generative AI**  
+- 📊 Exploring **Data Analytics & Visualization** with **Power BI**  
+- ⚡ Love turning ideas into impactful products  
+
+---
+
+## 🛠️ Tech Stack  
+
 <p align="left">
-<a href="https://www.leetcode.com/vinaychakravarthi10110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinaychakravarthi10110" height="30" width="40" /></a>
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,html,css,javascript,typescript" />
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+  <!-- ML / AI -->
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="40"/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=docker,git" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 📈 GitHub Contributions  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=github_dark" />
+</p>
+
+---
+
+## 🌟 Featured Projects  
+- 🔗 [MERN Projects](#) – Web apps & dashboards  
+- 🔗 [Machine Learning Projects](#) – Predictive models & data-driven insights  
+- 🔗 [Generative AI Projects](#) – AI-driven creative applications  
+
+---
+
+⭐️ From [Vinay](https://github.com/your-username)  
