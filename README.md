@@ -41,12 +41,4 @@
 </p>
 
 ---
-
-## 🌟 Featured Projects  
-- 🔗 [MERN Projects](#) – Web apps & dashboards  
-- 🔗 [Machine Learning Projects](#) – Predictive models & data-driven insights  
-- 🔗 [Generative AI Projects](#) – AI-driven creative applications  
-
----
-
-⭐️ From [Vinay](https://github.com/your-username)  
+ 
